@@ -95,9 +95,7 @@
     <img src="https://raw.githubusercontent.com/bharathnow/bharathnow/main/github-stats.svg" height="195" alt="Mothukuri Bharath's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnow&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="195" alt="Top Languages" />
   </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathnow&theme=radical&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-  </p>
+
 </div>
 
 ---
