@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="175" viewBox="0 0 495 175" fill="none" role="img" aria-label="Mothukuri Bharath's Git Streak">
+  <style>
+    .header { font: 600 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdf8; }
+    .number { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; }
+    .number-fire { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdf8; }
+    .label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .subtext { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+    .divider { stroke: #30363d; stroke-width: 1; stroke-dasharray: 4; }
+    .fire-icon { fill: #f0883e; }
+    .star-icon { fill: #e3b341; }
+    .bolt-icon { fill: #38bdf8; }
+  </style>
+
+  <rect x="0.5" y="0.5" rx="6" height="99%" stroke="#30363d" width="494" fill="#0d1117" />
+
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <text class="header">Git Contribution &amp; Streak Metrics</text>
+  </g>
+
+  <!-- Total Commits -->
+  <g transform="translate(85, 65)" text-anchor="middle">
+    <circle cx="0" cy="0" r="18" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+    <path class="bolt-icon" d="M-4 -6 L3 -6 L0 -1 L4 -1 L-3 7 L-1 1 L-4 1 Z" transform="translate(0, -1)" />
+    <text class="number" x="0" y="38">490</text>
+    <text class="label" x="0" y="58">Total Commits</text>
+    <text class="subtext" x="0" y="74">Verified Activity</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line class="divider" x1="168" y1="50" x2="168" y2="150" />
+
+  <!-- Current Streak: 48 Weeks -->
+  <g transform="translate(247, 65)" text-anchor="middle">
+    <circle cx="0" cy="0" r="18" fill="#161b22" stroke="#38bdf8" stroke-width="2" />
+    <path class="fire-icon" d="M-1 -8 C-1 -8 -0.5 -5 -1.5 -3 C-2.5 -1 -4 0.5 -4 2.5 C-4 5 -2 7 0.5 7 C3 7 5 5 5 2.5 C5 0.5 3.5 -1.5 2.5 -2.5 C2.5 -1.5 1.5 -0.5 0.5 -0.5 C-0.5 -0.5 -0.5 -2 0.5 -3 C1.5 -4 1.5 -6 -1 -8 Z" />
+    <text class="number-fire" x="0" y="38">48 Weeks</text>
+    <text class="label" x="0" y="58">Current Streak</text>
+    <text class="subtext" x="0" y="74">Consistent Development</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line class="divider" x1="328" y1="50" x2="328" y2="150" />
+
+  <!-- Longest Streak: 48 Weeks -->
+  <g transform="translate(410, 65)" text-anchor="middle">
+    <circle cx="0" cy="0" r="18" fill="#161b22" stroke="#30363d" stroke-width="1.5" />
+    <path class="star-icon" d="M0 -6 L1.8 -2.4 L5.8 -1.8 L2.9 1 L3.6 5 L0 3.1 L-3.6 5 L-2.9 1 L-5.8 -1.8 L-1.8 -2.4 Z" />
+    <text class="number" x="0" y="38">48 Weeks</text>
+    <text class="label" x="0" y="58">Longest Streak</text>
+    <text class="subtext" x="0" y="74">All-Time Peak</text>
+  </g>
+</svg>
