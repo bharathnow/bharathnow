@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Mothukuri Bharath
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Science+%26+AI+Undergraduate;Full-Stack+%26+Machine+Learning+Developer;Top-3+Hackathon+Winner+%F0%9F%8F%86;Creator+of+Detox+%26+IncidentMind;Oracle+Certified+in+Java+SE+17+%26+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Computer+Science+%26+AI+Undergraduate;Full-Stack+%26+Machine+Learning+Developer;Top-3+Hackathon+Winner+%F0%9F%8F%86;Creator+of+Detox+%26+IncidentMind;48-Week+Git+Streak+%F0%9F%94%A5;Oracle+Certified+in+Java+SE+17+%26+MySQL" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -11,6 +11,7 @@
   <a href="https://bharathnow.github.io"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:bharathchowdary250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/bharathnow?tab=repositories"><img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <img src="https://img.shields.io/badge/Git_Streak-48_Weeks_🔥-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Git Streak" />
 </p>
 
 </div>
@@ -95,7 +96,9 @@
     <img src="https://raw.githubusercontent.com/bharathnow/bharathnow/main/github-stats.svg" height="195" alt="Mothukuri Bharath's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathnow&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="195" alt="Top Languages" />
   </p>
-
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/bharathnow/bharathnow/main/streak-card.svg" height="165" alt="Mothukuri Bharath's 48-Week Git Streak" />
+  </p>
 </div>
 
 ---
